@@ -91,15 +91,6 @@ class NetWorthGraph extends React.Component<Props, State> {
   }
 
   render() {
-    //I ran out of time so I'll try to explain my next steps
-    // I figured out the net worth of each month for each year
-    // i would loop through the net worths, and then map them into the
-    // proper data types that is required for the LineChart below.
-
-    // Ideally I would have a dropdown for each year
-    // or I would have made the X axis scrollable
-
-    // I wasn't able to figure out the coin part in time
     return (
       <>
         <p>Graph Place Holder</p>
